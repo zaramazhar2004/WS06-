@@ -7,6 +7,7 @@
 // Student Name: Zara Mazhar
 // Student Number: 106537251
 // Student Email: zmazhar1@myseneca.ca
+//The work is mine, only part copied/taken is what the professor has already provided in the files
 /////////////////////////////////////////////////////////////////
 ***********************************************************************/
 #ifndef SENECA_NUMBERS_H_
